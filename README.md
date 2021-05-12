@@ -2,6 +2,8 @@
 
 ![ticketmonster](./assets/ticketmonster.png)
 
+# :warning: This repository is currently not maintained and will be archived soon. If you are still using it, please reach out to the maintainers :warning:
+
 This repository is a clone from [ticket-monster-msa/monolith](https://github.com/ticket-monster-msa/monolith) maintained by Christian Posta, who gave us kind permission to reuse it for our cloud migration showcase.
 
 The repository is a monorepo of projects that illustrate migrating a monolith application (TicketMonster) to microservices on OpenShift. For this journey, a blog post series explains the required concepts and best practices. Find background information and instrucitons how to use this repo in our [Fearless Monolith to Microservices Migration – A guided journey](https://www.dynatrace.com/news/blog/fearless-monolith-to-microservices-migration-a-guided-journey/) blog series that guides you through the different stages in a structured manner. 
